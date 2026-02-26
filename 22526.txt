@@ -151,4 +151,7 @@ System are monirored by observing audit activites in real time or by observing
 One Good thing - 5 minutes
 https://github.com/ExMachinaParlor/Tengu-Marauder-Vanguard
 
+Lab: It wasn't me
+Have a mini SOC to solve problem together
 
+Breakout rooms!
