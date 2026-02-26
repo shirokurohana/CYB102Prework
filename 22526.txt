@@ -112,3 +112,43 @@ Monitoring a network of sensors and security tools to proactively identify poten
 Analyzing identified anomalies for their severity and potential impact for prioritizng them for remediation
 Isolating incidents and implementing controls to prevent future events
 
+Functional Areas of SOC
+Discovery -> Primary Investigation -> Triage -> Extended Investigation - Contain, Respond
+
+Real world SOC ops
+Wazuh - a siem sol for monitoring detection and alerting of security events and incidents
+the hive - a sirp to track security eveents obseved with WAZUH a case management system
+cortex- analyze collected observables from security events and helps determine response
+
+sirp = security incident response plan - step 1 identify 
+
+in cyber - just google stuff
+
+Cyber Fusion Center - what is it?
+- A next-gen security operations center
+- Designed to facilitate collab and communication between teams engaging in related functions such as cyber and IT to reduce risk and improve org's overally security posture
+- sec ops colocated alongside crisis response teams, phys sec teams, any number of other incident response teams - https://www.youtube.com/watch?v=Tao4q-_ve_I&t=435s
+
+SOC -> focused on detecting 
+
+NIST control - 10 minutes
+ISO in European 
+
+NIST is main one 
+
+NIST cybersecurity framework
+- Helps businesses of all sizes better understand, manage and reduce teir cybersec risk and protect their networks and data
+- framwork is voluntary
+https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final
+
+- it gives biz an outline of best practices to help you decide where to focus your time and money for cybersec prot
+
+NIST system monitoring
+external - observation 
+
+System are monirored by observing audit activites in real time or by observing 
+
+One Good thing - 5 minutes
+https://github.com/ExMachinaParlor/Tengu-Marauder-Vanguard
+
+
