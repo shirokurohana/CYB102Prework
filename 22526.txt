@@ -1,0 +1,19 @@
+First day of class - 2/25/26
+
+Joshua Mann - Instructor
+Welcome to Unit 1: Blue Team Defense Concepts
+Cyber 102
+
+As a community, we will
+- be present, physically and mentally
+- actively build an inclusive community and space
+- practice curiosity and adopt a learning mindset
+- ask for help when we need it
+- keep our cameras on
+
+Agenda
+1. Intro
+2. What is a blue team
+3. Nist control
+4. Lab: it wasn't me - 60 min
+5. Wrap up
