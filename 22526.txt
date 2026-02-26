@@ -17,3 +17,98 @@ Agenda
 3. Nist control
 4. Lab: it wasn't me - 60 min
 5. Wrap up
+
+Joshua Mann will be speaking for 1 hour
+3rd generation teacher started working in IT
+worked in a NOC - then went to SOC - worked with SIMs - logs into systems
+teaching over 5 years IT, cybersec, etc
+
+Saul Lopez Lucas - Managing the team of tech fellows 
+Will work in your breakout rooms
+
+They've been through a lot of cyber
+
+Reminder: Classroom Policy
+- Attendance at all sessions is mandatory
+- All students are allowed up to 2 absences throughout the entire program
+  - Students do not need to submit a request to use these absences
+  - Students will be marked as late if they arrive after the sessions starts
+  - Being significantly late will count as an absence
+
+- All assignments are due at 11:59pm pst the day before the class
+
+Class structure
+1 hour of direct instruction and 1 hour for breakout rooms
+Direct instruction
+- Instructors will present slides
+- Students are expected to attend and be present
+- Tech fellows will be present and support students by answering questions in the chat or slack
+
+Breakout rooms
+- encouraged to work together to complete assignments, activitivies, project or labs
+
+Nearly 300 people in this course
+
+Discussion
+NIST defines a red team as a group of people who are authorized to try to attack and break systems
+
+1. What would blue team do? Defense
+2. What are possible benefits? Patch vulnerabilities, 
+
+Blue Team - 35 minutes
+NIST defines it as - group responsible for defending an enterprise's use of IT by maintaining its security posture against a group of mock attacker - the people who protect the systems
+
+Blue team vs red team
+defenders - attackers
+network monitoring - pen testing
+vul scanning - data and log analysis
+risk assess - social engineering
+threat detect - threat intell
+                custom toolset development
+
+Blue Team Activities
+- Analyze current state of security of your org
+- Take measures to address flaws and vuls
+Digital footprint analysis
+DNS audits
+Installing and configuring firewalls
+Monitoring network activity
+Installing and configuring endpoint security software
+Using least-privilege access
+
+Now knowing the type of activities they take part in, what type of skills should be possessed by blue team members?
+Detail oriented
+Psychology
+Logical 
+Observational
+Critical thinking
+
+Blue team skills
+Risk assessment
+Identify key assests that are most at risk for exploitation so you can prioritize your resources to protect them
+
+Threat intelligence
+Stay a step ahead of attackers by knowing what threats are out there so you can plan appropriate defenses
+
+SIEM - IDS - IPS - Week 6
+
+Hardening Techniques 
+Recognizing weakenesses in your organization's security is only helpful if you the techniques for fixing them
+Monitoring and detections systems
+Need to know how to use packet sniffers, SIEM, IDS, IPS
+
+Blue team operations typically occur within a security operations center (SOC)
+
+Security Operations Center
+SOC consists of highly trained analysts who work on defending and improving their organiszation's defenses around the clock 
+- While not all SOCs are the same, they are usually staffed by:
+- SOC analysts
+- Network engineer
+- Malware analyst
+- Other blue team professionals who use enterise and network based monitoring tools
+
+SOC
+Monitoring a network of sensors and security tools to proactively identify potential security threats
+Analyzing identified anomalies for their severity and potential impact for prioritizng them for remediation
+Isolating incidents and implementing controls to prevent future events
+
