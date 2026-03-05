@@ -1,2 +1,135 @@
 CYB102 Class 
 3-4-26
+Welcome to Unit 2: Endpoint Monitoring
+
+Cameras on and engagement
+More than 60s fully exit and come back 
+Staff will remove students from Zoom when they are off camera or unresponsive for more than 60s
+
+Intro 10 min
+Host Event Logs - 25 min
+Host Vul Scanning - 5 min
+Host Intrusion Prevention/Detection - 10 min 
+AI check point - 10 min
+Lab: Oop! I audit again 55 min
+Wrap up 5 min
+
+Your Feedback
+Glows
+- Lecture Flow
+- Enjoyed Hands on time
+- Collab Teams
+Grows
+Lab felt short
+stretch goals
+cleaner lab transition
+
+Based on what you learned - differences between Windows and Linux
+
+Windows 11 
+vs 
+Many distros
+
+Linux - servers
+Windows - enterprise
+
+Log information joined
+
+Host Event Logs - 25min
+-----------------------
+
+Windows Event Log
+- In depth record of events related to the system, security, and app stored on a Windows OS
+- Event logs can be used to track system and some app issues and forecast future probs
+
+Windows - Event Viewer
+Windows logs -> App, Security, Setup, System
+Audit success or audit failure
+
+Log name
+Event data and time
+Task category
+It records ip address or port
+
+Windows server - Event ID 
+Every type of log entry has an event id 
+
+4624 = success
+4625 = failture
+
+https://wazuh.com/
+
+windows event ids for cybersecurity
+
+It could be a rogue account
+
+Print spooler stop this service 
+Stopping the service created an entry
+7036 event id 
+Interview question remember 
+
+Application, Security, System
+ASS lol
+
+What type of info would be valuable to have in an event log?
+installing software
+errors, crashs, file creation
+Useful for a lot of things
+
+Windows + R 
+eventvwr
+
+Linux event logs serve the same purpose
+
+Main categories
+- Application
+- Event
+- Service
+- System
+
+viewing logs in linux
+cd /var/log
+ls
+cat auth.log
+failed connection to this linux server
+same IP address trying to hack Windows server
+sudo dmesg
+see if listening on certain things
+tail auth.log - last 10 lines of auth.log
+
+Linux terminal for beginners
+head - cat - tail lol
+
+tail -f auth.log
+- prints the next line written to the file, follow changes to the sys log file as they happen
+
+/var/log/syslog or /var/log/messages
+general logs
+/var/log/auth.log or /var/log/secure - all auth and auth logs
+
+/var/log/kern.log - kernel activity logs
+/var/log/faillog - fialed login attempts
+/var/log/maillog - mail
+
+Host vul scanning 5 min
+
+It enables orgs to monitor their networks, systems and apps for sec vuls
+vuls can include
+- open ports
+- unpatched machines
+- out of date software
+
+weaknesses in the environments
+insights into degrees of risk
+recommendations on how to mitigate the vul
+
+OpenVAS - https://openvas.org/
+Nessus - essentials - free part of the system with not all the features
+
+Common Vuls and exposures
+reference for publicly known system vuls
+Score from 1 to 10
+10 is crazy bad
+News article about 1 week and half ago
+Cisco zero day CVE exoloited since 2024 for admin access 2/25/26
+https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html
