@@ -133,3 +133,26 @@ Score from 1 to 10
 News article about 1 week and half ago
 Cisco zero day CVE exoloited since 2024 for admin access 2/25/26
 https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html
+
+
+Driver/passenger setup
+driver - shares their screen on zoom, run commands, operate applications
+one person in group can switch and take turns
+
+passenger 
+- take turns giving directions to driver, tell them what to type, what to click, where to go next,
+more teamwork
+
+I did the lab with Ashley Serrano and Ebenezer Abate
+Group 18
+We finished the lab before time and we did a stretch goal
+Create some rules 
+3 scripted attacks
+make changes to a file 
+use audit tool to fill out template
+due March 8th
+
+https://docs.google.com/presentation/d/12tzlvr-z7V0XHhY0khD_5WPxcaRI-MbCcZQzMDUgAzA/edit?slide=id.gfee031c7e2_0_1760#slide=id.gfee031c7e2_0_1760
+
+https://docs.google.com/spreadsheets/d/1PzzDUOzTBTNLmwZnVvAEiRIumf2YHY3Co9JjAFDMF3k/edit?gid=0#gid=0
+
