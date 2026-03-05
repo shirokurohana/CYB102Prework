@@ -133,3 +133,45 @@ Score from 1 to 10
 News article about 1 week and half ago
 Cisco zero day CVE exoloited since 2024 for admin access 2/25/26
 https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html
+
+CVSS https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator
+
+Things become an issue 
+Vul scaners - spots all os and third party vuls including vuls in content management systems, web servers and database software
+asset disc - vul scan - vul ass - vul rem
+
+HIDS - host based intrusion detection system
+- analyzes traffic that passes thru the network
+- see if something abnormal will send an alert
+- hids runs just on a computer - orgs use nids - network based intrusion detection system
+
+how a HIDS works
+- data collection
+collects data from com systems
+- network ob 
+observes the network traffic and matches all the traffic patterns to all known attacks
+
+host based intrusion prevention system
+- monitors a single host for sus activity by analyzing events occurring within that host 
+- hips aims to stop malware by monitoring behavior of code
+- protects from known and unknown malciious attacks
+
+hips activity defends the host , whereas hids just detects and sends alerts
+
+hips
+- database of sys objects monitored to idenity intrusions by analyzing sys calls app logs and file system
+
+HIDS - HIPS 
+
+you shall not pass! -HIPS
+i see an attack! - HIDS
+
+hips needs less overhead so that's why hids is good
+
+IDS/IPS are big
+
+Join dynamic group breakout rooms
+- rotating groups of eingeering peers until milestone week
+- you choose how you want to show up in breakout rooms 
+
+https://docs.google.com/forms/d/e/1FAIpQLSdZnSL3_RyU3wD3izl2Q-WCtkPG4_jdXxVxmNbydN_IoizVyQ/viewform
