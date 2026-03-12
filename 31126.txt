@@ -10,3 +10,52 @@ Glows
 Grows
 - More demos
 - Breakout rooms
+
+10 min - Secure Coding and Secure by Design
+Secure by design means building security into every stage of software or system creation - not just bolting it on later!
+
+- At first, basic software seems cheaper 
+build basic $ vs build secure $$
+- Until you need to add security:
+analyze sec and find vuls $$
+update sotware to be more secure $$
+
+Two sides of software sec
+Builders - SWD
+- swe
+- responsibilities
+- write secure code
+- understand common vuls
+
+Blue Team - Guards
+- Cybersec professionals
+- Responsibilities
+- watch for threats
+
+Protect the system by using secure coding practices:
+input validation - protects against XSS, SQL-injection, buffer overflow
+Secure error handling - protects against info leaks that attacks could exploit 
+secure auth - protects against unauth logins and privilege escalation
+encrypted data handling 
+protects against data interception and unauth access
+
+Secure by design the guards
+- continuous monitoring
+detects and responds to sus activity before damage is done
+incident response planning minimizes impact and recovery time after a security breach
+threat int sharing
+protect sys by learning 
+
+learn more about secure code - uc berkeley
+https://security.berkeley.edu/secure-coding-practice-guidelines
+https://www.cisa.gov/sites/default/files/2023-10/SecureByDesign_1025_508c.pdf
+
+20 min 
+Common Network Protocols
+
+https://s7280.pcdn.co/wp-content/uploads/2018/06/osi-model-7-layers-1.png
+
+FTP - file transfer protocol
+SMTP - Simple Mail transfer protocol 
+SMB - Server Message Block 
+SSH - secure shell
