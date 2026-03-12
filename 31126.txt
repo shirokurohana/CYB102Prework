@@ -59,3 +59,47 @@ FTP - file transfer protocol
 SMTP - Simple Mail transfer protocol 
 SMB - Server Message Block 
 SSH - secure shell
+
+SMTP attacks
+- attackers can see the email addresses stored on your server and send msgs to them while pretending to be you
+
+directory harvest attacj 
+MITM
+smtp injection 
+
+SMB - a proprietary microsoft windows communication protocol for providing shared access to files, printers and serial ports between nodes on a network 
+it also gives an authenticated and authorized inter-process communication mechanism
+
+SMB attacks
+- relay attack a mitm wheere the attack captures password hashes and other types of info that can be used to dupe the server
+ethernalblue - the smbv1 server in various versions of microsoft windows mishandles specially crafted  packets from remote attackers allowing them to execute arbitrary code on the target computer 
+brute force: a trial-and-error based attack method that works by guessing credentials either through logic or running all possible keyboard combinations 
+
+Computer A - Imposter Server B (Login Again) - Server B (login)
+
+Secure Shell 
+- a cryptography based network protocol for operating network services securely and reliably 
+
+Real fast? What’s WannaCry! ?
+WannaCry was pretty much a ransomware that encrypted data on computers, specifically Windows computers, and you had to pay Bitcoin to get access to your files. It was pretty big back in 2017
+
+SSH attacks 
+SSH port scanning
+dict attack - a brute force attack that will ultimately 
+
+ssh ip address 
+compromised ssh server - attacks using a compromised server 
+
+hydra - pick  a protocol ssh, ftp, keep logging in with a list of passwords
+
+Spread ransomware 
+
+20 minutes - packet sniffing
+
+What is a packet sniffer
+- monitoring network traffic 
+- sniffers work by examining streams of data packets
+
+why use a packet sniffer?
+- a net tech 
+https://docs.google.com/spreadsheets/d/1PzzDUOzTBTNLmwZnVvAEiRIumf2YHY3Co9JjAFDMF3k/edit?gid=1222505058#gid=1222505058
