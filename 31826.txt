@@ -1,6 +1,8 @@
 Turning imposter syndrome into growth
 
 Susie Liang - 1.5 hour
+Maryam Hamza
+Christina Hughes
 
 - Attendanec is required, cameras are not expected 
 - Please stay for the entire session
@@ -16,3 +18,60 @@ Susie Liang - 1.5 hour
 
 - Slido.com
 #1482 011
+
+Imposter Syndrome
+- What imposter syndrom is and how it shows up in tech
+- Why so many of us experience it and why you're not alone
+- Practcal ways to navigate and reframe imposter syndrome
+- How supporting your peers helps your grow, too (Lift as your climb)
+
+What is imposter syndrome - Maryam
+- Have you ever felt you're not good enough or that you don't belong despite your achievements?
+
+That feeling is when you doubt your abilities and a persistent fear of being exposed as a fraud, even when there's evidence to prove your competence
+
+Change mindset to be a positive thing
+
+Common signs and experiences
+1. Discounting accomplishments
+2. Fear of failture
+3. Overworking and perfectionism 
+4. Comparing yourself to others
+5. Difficulty accepting praise 
+
+We all will face failure
+
+It happens to all of us - Christina
+
+Why it's common in tech
+Fast moving industry - always something new to learn
+Comparison culture - polished LinkedIn updates and peer competition
+Competitive Market - reinforcing self-doubt
+
+we are all collectively experiencing tech for the first time
+comparison is the thief of joy
+people try to best foot forward
+
+Imposter syndrome as a software engineer
+"The ideal software engineer journey"
+An image prob popped into your head when i said this
+comparing yourself to this, faulting yourself for the differences between your journey and this mental image is an example of impostor syndrome 
+
+Imposter syndrome happens to all of us, it happens to me too
+Here's a story from my journey
+
+We think we don't understand what's going on 
+We remove that gap of understanding
+
+Imposter syndrome encounters
+Application process when she kept applying and not hearing back
+
+someone took a chance on him
+
+i felt imposter syndrome when i looked at my resume and thought i didn't have enough experience for a software engineering role 
+
+header - congrats or thank you for your interest
+
+redirection gonna get what you're going to get at the end of the day
+
+find the role that's made for you
