@@ -24,3 +24,11 @@ Step 4: Post incident activity
 Incident response template
 Attack Matrix for enterprise MITRE attack
 https://docs.google.com/spreadsheets/d/1PzzDUOzTBTNLmwZnVvAEiRIumf2YHY3Co9JjAFDMF3k/edit?gid=1222505058#gid=1222505058
+
+Project + stretch real world breach analysis
+
+Screenshot with catalyst
+
+- Analyze attacker methods and orgs responses to real world attacks
+
+Lock in capstone groups
