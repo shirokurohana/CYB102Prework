@@ -6,3 +6,19 @@
 Preparation
 Detection and analysis
 Containment Eradication and Recovery
+
+Step 1: Preparation (1 of 3)
+- No org can spin up an effective
+Prepare to handle the incident 
+1.1 Incident handler communication facilities
+contact info for ir team members, incident reporting mechanisms (phone #s, email addresses, forms), smartphones, war room, secure storage facility
+1.2 incident analysis hardware and software 
+laptops, digital forensics workstations, blank removable media, portable printer, packet sniffers, digital forensic software
+
+Step 4: Post incident activity
+
+- Every incident should be an opportunity to learn and improve but many orgs give little time or attention to this step
+- Adversaries are always eveolving, and IR teams need to keep up with latest techniques, tactics, and procedures
+- if an org doesn't improve their sys after an incident they are bound to have a repeat of events
+
+Incident response template
