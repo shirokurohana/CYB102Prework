@@ -1,0 +1,8 @@
+4-8-26 Incident Response
+------------------------
+
+1) Incident response frameworks
+- NIST vs SANS
+Preparation
+Detection and analysis
+Containment Eradication and Recovery
