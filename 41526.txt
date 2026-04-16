@@ -21,3 +21,22 @@ https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68
 The cybersecurity black market is a decentralized network of hidden marketplaces and encrypted forums where criminals trade stolen data, malware, and specialized hacking services. This shadow economy functions through a mix of automated retail-style platforms and specialized human brokers who facilitate high-stakes deals for network access and corporate secrets.
 
 Bleeping computer - APT news
+https://www.sciencedaily.com/releases/2016/05/160512085123.htm
+
+ATT&CK
+CAR - Cyber Analytics Repository
+CAPEC - Common Attack Pattern Enumeration and Classification
+
+CAPEC - catalogs different types of attacks to help orgs dev effective countermeasures
+CAR - provides tools to monitor network activity for signs of an attack
+ATT&CK - helps organizations understand the behavior and objectives of attackers
+
+Threat intelligence information security 
+- exchange of relevant data and insights about potential cyber threats among individuals or orgs
+- occurs via formal agreements or informal networks, and can involve the sharing of indicators of compromise malware samples or other data that can help identify 
+
+Sharing threat indicators with other orgs is mutually beneficial but comes with challenges as well
+- don't share confidential info
+- share it 
+
+https://github.com/hslatman/awesome-threat-intelligence
