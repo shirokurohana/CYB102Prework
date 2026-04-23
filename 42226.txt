@@ -15,3 +15,32 @@ Unusual computer?
 
 Resource monitors
 Networking info - Zoom
+
+Unauth access to a network and exfiltrating sensitive data
+- Investigation 
+Conduct a deep dive investigation on any sus activity identified in steps 1-3 if realted
+if hypo is confirmed
+
+Indicators of compromise
+- collect, analyze, and disseminate info about potential cyber threats - tactics, techniques and procedures (TTPs)
+- building a catalog of known ttps associated with threat actors
+
+Ways to build catalog
+- intelligence gathering - dark web forums, honeypots, OSINT
+- attribution - threat intelligence analysts use info gathered from prev attacks
+- threat hunting - develop hypotheses about potential threats and identify ttps 
+- detection and prevention - firewalls, IDS, SIEM, 
+
+https://www.cisa.gov/news-events/cybersecurity-advisories?search_api_fulltext=&sort_by=field_last_updated&url=
+
+threat hunting vs security analytics
+1. focus
+2. hypothesis-driven vs data-driven
+3. human expertise
+4. timeframe
+
+threathunting - human expertise
+
+security analytics - largely automated on algorithms
+
+SOAR platform
