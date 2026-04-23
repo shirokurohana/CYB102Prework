@@ -1,0 +1,17 @@
+April 22, 2026
+
+Hypothesis-Driven Investigation
+- This allows cybsec profs to focus their investigations on potential threats most likely to pose a risk 
+identiy and investigate
+
+Hypothesis: a malicious actor has gained unauth access to a company's net and is exfiltrating sensitive data
+what investigation steps include?
+
+What logs make sense to look at?
+Compromised a user - phishing attack
+Search VNCviewer - look for connections with SSH or RDP
+
+Unusual computer?
+
+Resource monitors
+Networking info - Zoom
